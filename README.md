@@ -4,6 +4,7 @@ O banco de imagens
 https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset
 
 possui 2500 imagens, com anotações correspondentes para sete (7) tipos diferentes de doenças em morango. Um método de segmentação de instância baseado na rede Mask R-CNN foi publicado em
+
 Afzaal, U.; Bhattarai, B.; Pandeya, Y.R.; Lee, J. An Instance Segmentation Model for Strawberry
 Diseases Based on Mask R-CNN. Sensors 2021, 21, 6565.
 
